@@ -27,7 +27,7 @@ Power BI (for advanced visualizations, Reporting)
 Steps to Use
 Download the dataset: The dataset is available in the Amazon.xlsx folder.
 Open the Excel file: Analyze the data using pivot tables and charts for insights.
-Power BI Dashboard: Download Amazon Report Analysis(1).pbix for an interactive visualization experience.
+Power BI Dashboard: Download Amazon Report Analysis(1).pbix for an interactive visualization experience and analysis report.
 
 
 

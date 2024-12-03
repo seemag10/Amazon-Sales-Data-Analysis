@@ -25,29 +25,9 @@ Power BI (for advanced visualizations, Reporting)
 
 
 Steps to Use
-Download the dataset: The dataset is available in the data folder.
+Download the dataset: The dataset is available in the Amazon.xlsx folder.
 Open the Excel file: Analyze the data using pivot tables and charts for insights.
-Power BI Dashboard: Import the data into Power BI for an interactive visualization experience.
-
-
-
-Recommendations : 
-
-Optimize Inventory Management: Focus on maintaining stock levels for top-selling products in high-performing categories, particularly Shirt's and T-Shirt's.
-
-Improve Customer Retention: Invest in loyalty programs to reward Returning customers and increase their lifetime value.
-
-Address Delivery Issues: Concentrate on  Other rather than with Easy Ship(Doing Good Alreaday) fulfillment partners to improve delivery speeds and accuracy to reduce cancellations and returns, particularly in regions with delivery issues.
-
-Expand Regional Marketing Efforts: Develop targeted promotions for the Island's and Central underperforming regions to increase market share.
-
-
-Data-Driven Insights :
-
-- Focusing marketing and inventory efforts on Shirt's and T-Shirts with this categories providing bundle offer with Socks and Wallets will likely yield the highest revenue.
-- Increase presence in underperforming regions like the Islands and Central regions to tap into growth potential.
-- Expand Expedited Shipping to improve delivery times and reduce cancellations.
-
+Power BI Dashboard: Download Amazon Report Analysis(1).pbix for an interactive visualization experience.
 
 
 
